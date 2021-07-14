@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PurchaseOrders>
+    <PurchaseOrder PurchaseOrderNumber="1" OrderDate="2021-05-10">
+        <Address Type="">
+            <Name>
+                Ellen Adams
+            </Name>
+            <Street>
+                123 Maple Street
+            </Street>
+            <City>
+                Mill Valley
+            </City>
+            <State>
+                PN
+            </State>
+            <Zip>
+                12044
+            </Zip>
+            <Country>
+                US
+            </Country>
+        </Address>
+        <DeliveryNotes>
+            
+        </DeliveryNotes>
+        <Items>
+            <Item PartNumber="1">
+                <ProductName>
+                    Lawnmower
+                </ProductName>
+                <Quantity>
+                    1
+                </Quantity>
+                <USPrice>
+                    120
+                </USPrice>
+                <Comment>
+                    Garden Item
+                </Comment>
+                
+            </Item>
+        </Items>
+    </PurchaseOrder>
+</PurchaseOrders>
